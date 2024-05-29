@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Artificial Intelligence.
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on building projects with tech teams in the world.
-- 📫 Reach me via my GitHub link and my Email: omarbora276@gmail.comm. 
+- 📫 Reach me via my GitHub link and my Email: omarbora276@gmail.com. 
 - 😄 Pronouns: 
 - ⚡ Fun fact: The term 'debugging' originated in 1947 when engineers found a moth causing issues in the Mark II computer. They 'debugged' the system, and the term stuck!
 
